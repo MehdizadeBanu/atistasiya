@@ -1,0 +1,96 @@
+body {
+    box-sizing: border-box;
+    background-image: url('https://swall.teahub.io/photos/small/7-77060_hd-for-pc-computer-wallpapers-desktop-backgrounds.jpg');
+    background-repeat: no-repeat;   
+}
+
+.banu {
+    box-sizing: border-box;
+    width: 336px;
+    height: 236px;
+    margin: 370px 408px 232px 790px;
+    border: 1px solid #C4C4C4;
+    border-radius: 10px;
+    background-color: aqua;
+
+}
+
+.banu1 {
+    position: absolute;
+    width: 336px;
+    height: 28px;
+    border-radius: 10px 10px 0px 0px;
+    background: #FFDC40;
+}
+
+.banu2 {
+    position: absolute;
+    width: 198px;
+    margin: 20px 477px 250px 60px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 26px;
+    line-height: 30px;
+    text-align: center;
+    text-transform: capitalize;
+    color: #000000;
+
+}
+
+/* .banu3 {} */
+
+input {
+    box-sizing: border-box;
+    position: absolute;
+    width: 286px;
+    height: 40px;
+    margin: 130px 1px 10px 24px;
+    border: 1px solid #C4C4C4;
+    border-radius: 10px;
+}
+
+.banu5 {
+    position: absolute;
+    width: 150px;
+    height: 42px;
+    margin: 180px 30px 2px 95px;
+    background: #833AE0;
+    border-radius: 71px;
+}
+
+button {
+    padding-left: 53px;
+    margin-top: 10px;
+    background: none;
+    border: none;
+    color:white;
+}
+button:hover{
+    cursor: pointer;
+}
+.banu52 {
+    position: absolute;
+    width: 42px;
+    height: 42px;
+    margin: 20px;
+    background: #9953F1;
+    border-radius: 71px;
+}
+
+.plus {
+    color: white;
+    margin-left: 15px;
+    margin-top: 11px;
+}
+
+img {
+    box-sizing: border-box;
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 672px;
+    top: 359px;
+    border: 1px solid #C4C4C4;
+    border-radius: 71px;
+}
