@@ -1,0 +1,29 @@
+.a2{
+    display: flex;
+    justify-content: flex-end;
+    margin: 10px;
+
+}
+.p{
+    flex-direction: row;
+}
+.a3{
+    text-align: center;
+    justify-content: center;
+    margin-top: 300px;
+    font-size: 60px;
+}
+.a4{
+    font-size: 30px;
+    margin-top: -60px;
+}
+.a5{
+    padding: 10px;
+    font-size: 20px;
+    margin-top: -10px;
+}
+body{
+    background-image: url("https://img.freepik.com/free-photo/maple-leaf-border-background-orange-watercolor-autumn-season_53876-128735.jpg?w=2000");
+    background-repeat: no-repeat;
+    font-family: Arial, Helvetica, sans-serif;
+}
